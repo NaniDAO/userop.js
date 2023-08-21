@@ -4,6 +4,8 @@
 export { ECDSAKernelFactory__factory } from "./ECDSAKernelFactory__factory";
 export { ECDSAValidator__factory } from "./ECDSAValidator__factory";
 export { EntryPoint__factory } from "./EntryPoint__factory";
+export { Keep__factory } from "./Keep__factory";
+export { KeepFactory__factory } from "./KeepFactory__factory";
 export { Kernel__factory } from "./Kernel__factory";
 export { KernelFactory__factory } from "./KernelFactory__factory";
 export { Multisend__factory } from "./Multisend__factory";
